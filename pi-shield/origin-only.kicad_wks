@@ -1,0 +1,6 @@
+(page_layout
+  (setup (textsize 1.5 1.5)(linewidth 0.15)(textlinewidth 0.15)
+  (left_margin 0)(right_margin 0)(top_margin 0)(bottom_margin 0))
+  (line (name segm1:Line) (start -10 0 ltcorner) (end 10 0 ltcorner))
+  (line (name segm2:Line) (start 0 -10 ltcorner) (end 0 10 ltcorner))
+)
