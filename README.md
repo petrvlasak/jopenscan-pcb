@@ -7,3 +7,5 @@ These PCBs are compatible with the original OpenScan DIY 3D Scanner firmware. Th
   - Software shutdown of stepper motors (available only in JOpenScan firmware)
 - Ringlight
   - Removed unnecessary current limiting resistors
+
+![](assets/images/photo.jpg)
