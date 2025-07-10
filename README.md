@@ -8,4 +8,4 @@ These PCBs are compatible with the original [OpenScan](https://openscan.eu/) DIY
 - Ringlight
   - Removed unnecessary current limiting resistors
 
-![](assets/images/photo.jpg)
+![](assets/images/openscan-pcb-photo.jpg)
